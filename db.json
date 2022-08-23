@@ -1,0 +1,79 @@
+{
+  "week_forecast": {
+    "days": [
+      {
+        "title": "Monday",
+        "forecast": "Cloudy",
+        "max_temp": 30,
+        "min_temp": 17,
+        "humidity": 35,
+        "wind_speed": 30,
+        "precipitation": 0
+      },
+      {
+        "title": "Tuesday",
+        "forecast": "Partly cloudy",
+        "max_temp": 28,
+        "min_temp": 10,
+        "humidity": 20,
+        "wind_speed": 15,
+        "precipitation": 0
+      },
+      {
+        "title": "Wednesday",
+        "forecast": "Sunny",
+        "max_temp": 10,
+        "min_temp": 5,
+        "humidity": 22,
+        "wind_speed": 15,
+        "precipitation": 0
+      },
+      {
+        "title": "Thursday",
+        "forecast": "Mostly cloudy",
+        "max_temp": 18,
+        "min_temp": 15,
+        "humidity": 24,
+        "wind_speed": 23,
+        "precipitation": 0
+      },
+      {
+        "title": "Friday",
+        "forecast": "Thunderstorm",
+        "max_temp": 25,
+        "min_temp": 18,
+        "humidity": 80,
+        "wind_speed": 100,
+        "precipitation": 100
+      },
+      {
+        "title": "Saturday",
+        "forecast": "Showers",
+        "max_temp": 23,
+        "min_temp": 14,
+        "humidity": 90,
+        "wind_speed": 15,
+        "precipitation": 70
+      },
+      {
+        "title": "Sunday",
+        "forecast": "Rain",
+        "max_temp": 24,
+        "min_temp": 12,
+        "humidity": 95,
+        "wind_speed": 25,
+        "precipitation": 94
+      }
+    ]
+  },
+  "today": {
+    "title": "Today",
+    "forecast": "Sunny",
+    "temp": 25,
+    "max_temp": 35,
+    "min_temp": 30,
+    "humidity": 15,
+    "wind_speed": 15,
+    "precipitation": 0
+  }
+}
